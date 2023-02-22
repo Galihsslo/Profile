@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Mehedi Hasan</title>
+    <title>Galih Susilo</title>
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -27,7 +27,7 @@
             </div>
             <div class="content">
                 <div class="inner">
-                    <h1>MEHEDI HASAN</h1>
+                    <h1>Galih Susilo</h1>
                     <p>
                         With a strong foundation in programming languages and a desire to
                         continuously learn and improve,
@@ -75,16 +75,17 @@
                 <h2 class="major">Education</h2>
                 <span class="image main"><img src="images/image2.jpeg" alt="" /></span>
                 <h4 class="major">B.SC Degree</h4>
-                2019 - 2022
-                <h3>Daffodil International University</h3>
+                2021 - 2023
+                <h3>UNIVERSITAS SAIN DAN AL-QUR'AN WONOSOBO</h3>
                 <ul>
-                    <li>Department of Software Engineering</li>
+                    <li>Department of
+                        Informatics Management </li>
                 </ul>
                 <h4 class="major">HSC Degree</h4>
-                2016 - 2018
-                <h3>Khawja Rahmat Ali College</h3>
+                2016 - 2023
+                <h3>SUSILO TECH</h3>
                 <ul>
-                    <li>Science Background</li>
+                    <li>CEO</li>
                 </ul>
             </article>
 
@@ -152,19 +153,19 @@
 
                 <ul class="icons">
                     <li>
-                        <a href="https://twitter.com/TheAlter72" class="icon fa-twitter"><span
+                        <a href="https://twitter.com/calon_persiden" class="icon fa-twitter"><span
                                 class="label">Twitter</span></a>
                     </li>
                     <li>
-                        <a href="https://web.facebook.com/TheAlter71/" class="icon fa-facebook"><span
-                                class="label">Facebook</span></a>
+                        <a href="https://wa.me/message/JZQMDLWPRGL6C1" class="icon fa-whatsapp"><span
+                                class="label">Whatsapp</span></a>
                     </li>
                     <li>
-                        <a href="https://www.instagram.com/mehedi705/" class="icon fa-instagram"><span
+                        <a href="https://www.instagram.com/galihsslo/" class="icon fa-instagram"><span
                                 class="label">Instagram</span></a>
                     </li>
                     <li>
-                        <a href="https://github.com/TheAlter71" class="icon fa-github"><span
+                        <a href="https://github.com/galihs12" class="icon fa-github"><span
                                 class="label">GitHub</span></a>
                     </li>
                 </ul>
@@ -388,7 +389,8 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
                         <div class="fields">
                             <div class="field half">
                                 <label for="demo-name">Name</label>
-                                <input type="text" name="demo-name" id="demo-name" value="" placeholder="Jane Doe" />
+                                <input type="text" name="demo-name" id="demo-name" value=""
+                                    placeholder="Jane Doe" />
                             </div>
                             <div class="field half">
                                 <label for="demo-email">Email</label>
@@ -423,8 +425,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
                             </div>
                             <div class="field">
                                 <label for="demo-message">Message</label>
-                                <textarea name="demo-message" id="demo-message" placeholder="Enter your message"
-                                    rows="6"></textarea>
+                                <textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
                             </div>
                         </div>
                         <ul class="actions">
@@ -442,7 +443,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
         <footer id="footer">
             <p class="copyright">
                 2023 &copy; Personal Portfolio:
-                <a href="https://github.com/TheAlter71">Mehedi Hasan</a>.
+                <a href="https://github.com/TheAlter71">Galih Susilo</a>.
             </p>
         </footer>
     </div>
